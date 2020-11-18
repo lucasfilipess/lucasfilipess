@@ -3,7 +3,7 @@
 I'm a Full Stack Developer with 2 years of experience passionate about the best web development technologies.<br><br>
 I have solid experience with projects using JavaScript, Node, React. Also, I'm a student at the Belo Horizonte University Center, where I learned in practice the most modern technologies of web development.<br>
 
-- :telescope: I’m currently working on my company [lecode](https://lecode.dev/)<br>
+- :telescope: I am currently working at my company [lecode] (https://lecode.dev/) and I am also an intern at [Rumo Soluções] (https://rumosolucoes.com/) <br>
 
 - :seedling: I’m currently focus on improve my knowledge in front end development.<br>
 
