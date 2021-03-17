@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 I'm a Full Stack Developer with 2 years of experience passionate about the best web development technologies.<br><br>
 I have solid experience with projects using JavaScript, Node, React. Also, I'm a student at the Belo Horizonte University Center, where I learned in practice the most modern technologies of web development.<br>
