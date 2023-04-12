@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm a Full Stack Developer with 3+ years of experience passionate about the best web development technologies.<br><br>
+I'm a Full Stack Developer with 4+ years of experience passionate about the best web development technologies.<br><br>
 I have solid experience with projects using JavaScript, Node, React. Also, I have a degree in computer science from the Belo Horizonte University Center, where I learned in practice the most modern technologies of web development.<br>
 
 - :telescope: I currently work as a web and mobile developer at [Rumo Soluções](https://rumosolucoes.com/) <br>
